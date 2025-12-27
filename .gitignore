@@ -2,3 +2,4 @@
 django_start/mysite/__pycache__/
 django_start/polls/__pycache__/
 django_start/db.sqlite3
+django_start/polls/migrations
